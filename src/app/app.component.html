@@ -1,0 +1,28 @@
+<div>
+  <div class='menu-container'>
+    <app-menu></app-menu>
+  </div>
+  <header>
+    <div class='row'>
+      <div class='col-sm-12 p-0'>
+
+        <div id='banner-full' [ngStyle]="currentBanner">
+          <div class='d-none d-sm-none d-md-block'>
+            <img src='assets/images/title-logo.png' class='rounded mx-auto d-block ' />
+          </div>
+          <div class='d-sm-block d-md-none'>
+            <div class='clearfix'>.</div>
+            <img src='assets/images/logo.png' class='img-fluid'
+              style='max-width: 120px; position: static; display:block; margin: 0px auto; margin-top: 30px;  z-index: 40; '>
+        </div>
+      </div>
+    </div>
+</div>
+</header>
+<router-outlet></router-outlet>
+<footer>
+  <strong>República Boemia</strong><small>
+    <br>Ouro Preto - MG
+    <br>2001 - 2022</small>
+</footer>
+</div>

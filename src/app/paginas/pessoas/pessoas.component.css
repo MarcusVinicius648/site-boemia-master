@@ -1,0 +1,47 @@
+.pessoa {
+    text-align: center;
+    padding: 7px;
+}
+
+img{
+    border-radius: 15px;
+    width: 190px;
+    height: 230px;
+    animation-duration: 0.5s;
+    /*animation-iteration-count: infinite;*/
+    /*transform-origin: bottom;*/
+}
+img:hover{
+    animation-name:bounce;
+    -moz-animation-name: bounce;
+}
+@keyframes bounce {
+	0%, 100% {
+		-webkit-transform: translateY(0);
+		-ms-transform:     translateY(0);
+		transform:         translateY(0)
+	}
+	60% {
+		-webkit-transform: translateY(-15px);
+		-ms-transform:     translateY(-15px);
+		transform:         translateY(-15px)
+	}
+}
+
+.pessoa-wrap {
+    border-bottom: 1px solid #eee;
+
+}
+.subtexto{
+    margin-top: -15px;
+}
+
+.pessoa .apelido {
+    font-weight: bold;
+    color: #db8f2c;
+    font-size: 1.1em;
+}
+
+.pessoa .curso, .pessoa .cidade {
+    font-size: .7em;
+}

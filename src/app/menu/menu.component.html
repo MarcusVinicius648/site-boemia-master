@@ -1,0 +1,37 @@
+<div class='container-fluid'>
+    <div class='d-none d-sm-none d-md-block'>
+        <div class='row text-center menu' style='max-height: 60px;'>
+            <div class='col-md-5 col-sm-12'>
+                <div class='row'>
+                    <div class='col-md-6 menu-item' routerLink="/vagas">Faça Parte</div>
+                    <div class='col-md-6 menu-item' routerLink="/casa">A Casa</div>
+                </div>
+            </div>
+            <div class='col-md-2 col-sm-12'>
+                <img src='assets/images/logo.png' class='img-fluid'
+                    style='max-width: 120px; position: relative; z-index: 40; '>
+            </div>
+            <div class='col-md-5 col-sm-12'>
+                <div class='row'>
+                    <div class='col-md-4 menu-item' routerLink="/pessoas">Pessoas</div>
+                    <div class='col-md-4 menu-item' routerLink="/historia">Nossa História</div>
+                    <div class='col-md-4 menu-item' routerLink="/contato">Contato</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class='d-sm-block d-md-none'>
+        <div id='menu-mobile-bar'>
+            <span class='fa fa-navicon' data-toggle='collapse' data-target='#menu-mobile'></span>
+        </div>
+        <div id='menu-mobile' class='collapse'>
+            <span class='fa fa-times close-menu-mobile' data-toggle='collapse' data-target='#menu-mobile'></span>
+            <div class='clearfix mb-4'></div>
+            <div class='col-sm-12 menu-item' data-toggle='collapse' data-target='#menu-mobile' routerLink="/vagas">Faça Parte</div>
+            <div class='col-sm-12 menu-item' data-toggle='collapse' data-target='#menu-mobile' routerLink="/casa">A Casa</div>
+            <div class='col-sm-12 menu-item' data-toggle='collapse' data-target='#menu-mobile' routerLink="/pessoas">Pessoas</div>
+            <div class='col-sm-12 menu-item' data-toggle='collapse' data-target='#menu-mobile' routerLink="/historia">Nossa História</div>
+            <div class='col-sm-12 menu-item' data-toggle='collapse' data-target='#menu-mobile'routerLink="/contato">Contato</div>
+        </div>
+    </div>
+</div>

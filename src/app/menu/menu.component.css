@@ -1,0 +1,53 @@
+.menu .menu-item {
+    padding: 20px 0px;
+    border-top: 2px solid #db8f2c;
+}
+
+.menu .menu-item:hover {
+    background: #f1f1f1;
+    cursor: pointer;
+
+}
+
+#menu-mobile-bar
+{
+    width: 100%;
+    background: #fff;
+    font-size: 1.2em;
+    padding: 4px;
+    padding-left: 15px;
+    color: #db8f2c;
+    z-index: 50;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+#menu-mobile-bar span:hover {
+    color: #86591d;
+    cursor: pointer;
+}
+
+#menu-mobile {
+    background: #fff;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 100;
+    top: 0;
+    left: 0;
+}
+
+#menu-mobile .close-menu-mobile{
+    padding: 10px;
+    color: #db8f2c;
+    float: right;
+
+}
+
+#menu-mobile .menu-item {
+    font-size: 1.2em;
+    color: #db8f2c;
+    text-align: center;
+    padding: 11px;
+}

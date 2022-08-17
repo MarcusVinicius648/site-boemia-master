@@ -1,0 +1,29 @@
+.endereco-desc {
+    max-width: 300px;
+    margin: 0 auto;
+    color: #555;
+}
+
+.contato-card {
+    margin: 25px auto;
+    width: 80%;
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid #aa650b;
+    font-size: 1.2em;
+    color: #aa650b;
+    text-align: right;
+}
+
+.contato-card:hover {
+    border: 1px solid #aa650b;
+    background: #aa650b;
+    color: #fff;
+
+}
+
+.contato-card i {
+    float: left;
+    margin-right: 15px;
+    font-size: 1.4em;
+}
