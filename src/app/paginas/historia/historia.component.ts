@@ -7,9 +7,18 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HistoriaComponent implements OnInit {
 
-  constructor() { }
+  oculto = true;
+  constructor() {}
 
   ngOnInit() {
+    this.oculto = true;
   }
-
+  
+  hidden(){
+    if (this.oculto){
+      this.oculto = false
+    }else{
+      this.oculto = true
+    };
+  }
 }

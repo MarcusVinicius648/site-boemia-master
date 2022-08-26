@@ -20,10 +20,10 @@
                         <div *ngFor='let morador of moradores' class='col-md-4 pessoa-wrap'>
                             <div class='pessoa'>
                                 <div class='img'>                                    
-                                    <ng-container *ngIf="morador.id != 2 && morador.id != 3">
+                                    <ng-container *ngIf="morador.id != 2 && morador.id != 3 && morador.id != 4 && morador.id != 5 && morador.id != 6 ">
                                         <img src='assets/images/moradores/{{morador.id}}.jpg' class='img-fluid'>
                                     </ng-container>
-                                    <ng-container *ngIf="morador.id == 2 || morador.id == 3">
+                                    <ng-container *ngIf="morador.id == 2 || morador.id == 3 || morador.id == 4 || morador.id == 5 || morador.id == 6">
                                         <img src='assets/images/moradores/{{checkEasterImg(morador.id)}}.jpg' (click)='easterChangeMoradores(morador.id)' Wclass='img-fluid'>
                                     </ng-container>
                                 </div>

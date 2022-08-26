@@ -6,24 +6,47 @@
 
 .contato-card {
     margin: 25px auto;
-    width: 80%;
+    margin-left: 40px;
+    width: 60%;
     padding: 10px;
     border-radius: 3px;
-    border: 1px solid #aa650b;
     font-size: 1.2em;
-    color: #aa650b;
     text-align: right;
+    border-radius: 15px;
+    text-decoration: none;
 }
 
-.contato-card:hover {
-    border: 1px solid #aa650b;
-    background: #aa650b;
+.contato-fb{
+    border: 1px solid #3b5998;
+    background: #3b5998;
     color: #fff;
-
 }
-
+.contato-fb:hover {
+    background: 1px solid #243c70;
+    
+}
+.contato-instagram{
+    border: 1px solid #db5938;
+    background: #db5938;
+    color: #fff;
+}
+.contato-instagram:hover {
+    background: 1px solid #a13b21;
+    
+}
+.contato-whatsapp{
+    border: 1px solid #34af23;
+    background: #34af23;
+    color: #fff;
+}
+.contato-whatsapp:hover {
+    background: 1px solid #1b5f12;
+}
 .contato-card i {
     float: left;
     margin-right: 15px;
     font-size: 1.4em;
+}
+a{
+    text-decoration: none;
 }

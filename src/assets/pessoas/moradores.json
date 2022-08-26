@@ -24,31 +24,31 @@
         "cidade": "Carangola-MG"
     },
     {
-        "apelido": "Bixo Bryan",
+        "apelido": "Sekão",
         "id": 4,
-        "nome": "Bryan Laurindo",
-        "curso": "Eng. Civil",
-        "periodo": "2022/1",
-        "cidade": "Jacareí-SP"
-    },
-    {
-        "apelido": "Bixo Caio",
-        "id": 5,
-        "nome": "Caio Henrique",
-        "curso": "Educação Física",
-        "periodo": "2020/1",
-        "cidade": "Araraquara-SP"
-    },
-    {
-        "apelido": "Bixo Cássio",
-        "id": 6,
-        "nome": "Cássio Nicolao",
+        "nome": "Lucas Batista",
         "curso": "Educação Física",
         "periodo": "2021/1",
-        "cidade": "Itaperuna-RJ"
+        "cidade": "Lagoa Santa-MG"
     },
     {
-        "apelido": "Bixo Alexandre Pires de Ilhéus",
+        "apelido": "Ktafrangu",
+        "id": 5,
+        "nome": "Douglas",
+        "curso": "Estatística",
+        "periodo": "2021/2",
+        "cidade": "Nova Lima-MG"
+    },
+    {
+        "apelido": "1G",
+        "id": 6,
+        "nome": "João Pedro",
+        "curso": "Eng. de Minas",
+        "periodo": "2021/2",
+        "cidade": "Embu das Artes-SP"
+    },
+    {
+        "apelido": "Bixo Alêxandre Píres de Ilhéus",
         "id": 7,
         "nome": "Wedson",
         "curso": "Ciência de Alimentos",
@@ -56,20 +56,20 @@
         "cidade": "Ponte Nova-MG"
     },
     {
-        "apelido": "Bixo 1G",
+        "apelido": "Bixo Cássio",
         "id": 8,
-        "nome": "João Pedro",
-        "curso": "Eng. de Minas",
-        "periodo": "2021/2",
-        "cidade": "Embu das Artes-SP"
+        "nome": "Cássio Nicolao",
+        "curso": "Educação Física",
+        "periodo": "2021/1",
+        "cidade": "Itaperuna-RJ"
     },
     {
-        "apelido": "Bixo Ktafrangu",
+        "apelido": "Bixo Caio",
         "id": 9,
-        "nome": "Douglas",
-        "curso": "Estatística",
-        "periodo": "2021/2",
-        "cidade": "Nova Lima-MG"
+        "nome": "Caio Henrique",
+        "curso": "Educação Física",
+        "periodo": "2020/1",
+        "cidade": "Araraquara-SP"
     },
     {
         "apelido": "Bixo Lacerda",
@@ -80,12 +80,12 @@
         "cidade": "Santa Luzia-MG"
     },
     {
-        "apelido": "Bixo Sekão",
+        "apelido": "Bixo Bryan",
         "id": 11,
-        "nome": "Lucas Batista",
-        "curso": "Educação Física",
-        "periodo": "2021/1",
-        "cidade": "Lagoa Santa-MG"
+        "nome": "Bryan Laurindo",
+        "curso": "Eng. Civil",
+        "periodo": "2022/1",
+        "cidade": "Jacareí-SP"
     },
     {
         "apelido": "Bixo Mucilon",

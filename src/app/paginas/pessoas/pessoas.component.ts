@@ -12,6 +12,9 @@ export class PessoasComponent implements OnInit {
   fotosSorrizuCount = 0;
   fotosAnsiosoCount = 0;
   fotosNuUteroCount = 0;
+  fotosSekaoCount = 0;
+  fotos1GCount = 0;
+  fotosKtaCount = 0;
   moradores: any[];
   exalunos: any[];
   homenageados: any[];
@@ -81,6 +84,27 @@ export class PessoasComponent implements OnInit {
           return '3-2';
         }
         break;
+      case 4:
+        if (this.fotosSekaoCount < 3) {
+          return 4;
+        } else {
+          return '4-2';
+        }
+         break;
+      case 5:
+        if (this.fotosKtaCount < 3) {
+          return 5;
+        } else {
+          return '5-2';
+        }
+        break;
+      case 6:
+        if (this.fotos1GCount < 3) {
+          return 6;
+        } else {
+          return '6-2';
+        }
+        break;
     }
   }
 
@@ -104,6 +128,15 @@ export class PessoasComponent implements OnInit {
         break;
       case 3:
         this.fotosNuUteroCount++;
+        break;
+      case 4:
+        this.fotosSekaoCount++;
+        break;
+      case 5:
+        this.fotosKtaCount++;
+        break;
+      case 6:
+        this.fotos1GCount++;
         break;
     }
   }
