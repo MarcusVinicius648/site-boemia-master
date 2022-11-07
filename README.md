@@ -1,27 +1,26 @@
-# Boemia
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
+## Boemia Website
+
+  Este código é sobre o site da república Boemia, do qual eu atualizei e fiz adaptações para melhor visualização da página. Foi utilizado  [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22. para desenvolvimento e estilização. 
+
+### - Abrir servidor
+
+Rodar no terminal: `ng serve` para o servidor de desenvolvimento. Navega até: `http://localhost:4200/`. O app irá atualizar automaticamente após mudança no código.
+
+### - Compilar o site
+
+  Utilizar `ng build` no terminal. Ele criará um diretório chamado `dist/`. COm ele pode-se subir o site para um servidor público.
+
+
+
+## Boemia Website
+  This code os about a republic website, that I update to a better view and comprehension. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+  Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+  Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
