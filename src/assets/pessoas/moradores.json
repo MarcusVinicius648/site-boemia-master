@@ -1,13 +1,5 @@
 [
     {
-        "apelido": "Zohan",
-        "id": 1,
-        "nome": "Júlio Cesar",
-        "curso": "Eng. de Controle e Automação",
-        "periodo": "2011/1",
-        "cidade": "Osasco-SP"
-    },
-    {
         "apelido": "Ansioso",
         "id": 2,
         "nome": "Vitor",
@@ -48,60 +40,60 @@
         "cidade": "Embu das Artes-SP"
     },
     {
-        "apelido": "Bixo Alêxandre Píres de Ilhéus",
+        "apelido": "Sabiá",
         "id": 7,
-        "nome": "Wedson",
-        "curso": "Ciência de Alimentos",
-        "periodo": "2022/1",
-        "cidade": "Ponte Nova-MG"
-    },
-    {
-        "apelido": "Bixo Cássio",
-        "id": 8,
-        "nome": "Cássio Nicolao",
-        "curso": "Educação Física",
-        "periodo": "2021/1",
-        "cidade": "Itaperuna-RJ"
-    },
-    {
-        "apelido": "Bixo Caio",
-        "id": 9,
-        "nome": "Caio Henrique",
-        "curso": "Educação Física",
-        "periodo": "2020/1",
-        "cidade": "Araraquara-SP"
-    },
-    {
-        "apelido": "Bixo Lacerda",
-        "id": 10,
         "nome": "João Lacerda",
         "curso": "Educação Física",
         "periodo": "2021/1",
         "cidade": "Santa Luzia-MG"
     },
     {
-        "apelido": "Bixo Bryan",
-        "id": 11,
-        "nome": "Bryan Laurindo",
+        "apelido": "Totó",
+        "id": 8,
+        "nome": "Natã Silva",
         "curso": "Eng. Civil",
-        "periodo": "2022/1",
-        "cidade": "Jacareí-SP"
+        "periodo": "2021/1",
+        "cidade": "Belo Horiozonte-MG"
     },
     {
-        "apelido": "Bixo Mucilon",
-        "id": 12,
+        "apelido": "Mucilon",
+        "id": 9,
         "nome": "Daniel",
         "curso": "Direito",
         "periodo": "2020/2",
         "cidade": "Ouro Preto-MG"
     },
     {
-        "apelido": "Bixo Rodrigo",
-        "id": 13,
-        "nome": "Rodrigo Carvalho",
-        "curso": "Eng. Civil",
+        "apelido": "Bixo Errejota",
+        "id": 10,
+        "nome": "Cássio Nicolao",
+        "curso": "Educação Física",
+        "periodo": "2021/1",
+        "cidade": "Itaperuna-RJ"
+    },
+    {
+        "apelido": "Bixo Alêxandre Píres de Ilhéus",
+        "id": 11,
+        "nome": "Wedson",
+        "curso": "Ciência de Alimentos",
         "periodo": "2022/1",
         "cidade": "Ponte Nova-MG"
+    },
+    {
+        "apelido": "Bixo Bryan",
+        "id": 12,
+        "nome": "Bryan Laurindo",
+        "curso": "Eng. Civil",
+        "periodo": "2022/1",
+        "cidade": "Jacareí-SP"
+    },
+    {
+        "apelido": "Bixo Quaz Parando",
+        "id": 13,
+        "nome": "Thalles Frazão",
+        "curso": "Eng. de Produção",
+        "periodo": "2022/2",
+        "cidade": "Lagoa Santa-MG"
     },
     {
         "apelido": "Bixo Passokinha",
@@ -112,7 +104,7 @@
         "cidade": "Ponte Nova-MG"
     },
     {
-        "apelido": "Bixo Marcus",
+        "apelido": "Bixo Leleko",
         "id": 15,
         "nome": "Marcus Vinícius",
         "curso": "Eng. de Controle e Automação",
@@ -120,43 +112,11 @@
         "cidade": "Ponte Nova-MG"
     },
     {
-        "apelido": "Bixo Totó",
+        "apelido": "Bixo Papa Ovo",
         "id": 16,
-        "nome": "Natã Silva",
-        "curso": "Eng. Civil",
-        "periodo": "2021/1",
-        "cidade": "Belo Horiozonte-MG"
-    },
-    {
-        "apelido": "Bixo Uriel",
-        "id": 17,
-        "nome": "Uriel Fraga",
-        "curso": "Eng. Geológica",
-        "periodo": "2022/1",
-        "cidade": "Diamantina-MG"
-    },
-    {
-        "apelido": "Agregado Enzo Gabriel",
-        "id": 18,
-        "nome": "Siqueni Vertello",
-        "curso": "Economia",
-        "periodo": "2018/2",
-        "cidade": "Contagem-MG"
-    },
-    {
-        "apelido": "Agregado Gustavão",
-        "id": 19,
-        "nome": "Gustavo Dias",
-        "curso": "Mestrando em Física de Materiais",
-        "periodo": "2020/2",
-        "cidade": "Montes Claros-MG"
-    },
-    {
-        "apelido": "Agregado Erik",
-        "id": 20,
-        "nome": "Erik Túlio",
-        "curso": "Mestrando em Física de Materiais",
-        "periodo": "2020/2",
-        "cidade": "Salinas-MG"
+        "nome": "Daniel Malta",
+        "curso": "Educação Física",
+        "periodo": "2021/2",
+        "cidade": "Governador Valadares-MG"
     }
 ]
