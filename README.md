@@ -1,27 +1,29 @@
-# Boemia
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
+## 💻Boemia Website
 
-## Development server
+  Este código é sobre o site da república Boemia, do qual eu atualizei e fiz adaptações para melhor visualização da página. Foi utilizado  [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22. para desenvolvimento e estilização. 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+ - Abrir servidor
 
-## Code scaffolding
+Rodar no terminal: `ng serve` para o servidor de desenvolvimento. Navega até: `http://localhost:4200/`. O app irá atualizar automaticamente após mudança no código.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+ - Compilar o site
 
+<<<<<<< HEAD
 ## Build 
+=======
+  Utilizar `ng build` no terminal. Ele criará um diretório chamado `dist/`. COm ele pode-se subir o site para um servidor público.
+>>>>>>> 208f032e3c290b7bfbe4b31f171e0017fe3eeab4
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Running unit tests
+  This code os about a republic website, that I update to a better view and comprehension. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+ - Development server
 
-## Running end-to-end tests
+  Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+ - Build
 
-## Further help
+  Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
