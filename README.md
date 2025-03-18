@@ -14,19 +14,26 @@ O projeto foi desenvolvido utilizando Angular CLI versão 8.3.22, com foco em re
 ✅ Página de Contato – Reformulação do layout e otimização dos formulários para facilitar a comunicação.
 
 
-🔧 Como Executar o Projeto
+🔧 Como Executar o Projeto:
+
 📌 Abrir o Servidor
+
 Execute o seguinte comando no terminal:
 
 `ng serve`
 
 Acesse no navegador: http://localhost:4200/
+
 O aplicativo será atualizado automaticamente conforme mudanças no código.
 
 
+
 📌 Compilar o Site
+
 Para gerar a versão de produção:
+
 `ng build`
+
 
 
 Isso criará um diretório chamado dist/, que pode ser usado para hospedar o site em um servidor público.
