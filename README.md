@@ -1,29 +1,35 @@
 
-## 💻Boemia Website
+# 💻 Boemia Website
 
-  Este código é sobre o site da república Boemia, do qual eu atualizei e fiz adaptações para melhor visualização da página. Foi utilizado  [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22. para desenvolvimento e estilização. 
+Este código é sobre o site da República Boemia, no qual realizei atualizações e adaptações para melhorar a visualização e experiência do usuário.
+O projeto foi desenvolvido utilizando Angular CLI versão 8.3.22, com foco em responsividade e otimização.
 
- - Abrir servidor
 
-Rodar no terminal: `ng serve` para o servidor de desenvolvimento. Navega até: `http://localhost:4200/`. O app irá atualizar automaticamente após mudança no código.
+🚀 Principais Atualizações: 
 
- - Compilar o site
+✅ Página Inicial – Melhorias no design e estrutura para uma navegação mais intuitiva.
 
-<<<<<<< HEAD
-## Build 
-=======
-  Utilizar `ng build` no terminal. Ele criará um diretório chamado `dist/`. COm ele pode-se subir o site para um servidor público.
->>>>>>> 208f032e3c290b7bfbe4b31f171e0017fe3eeab4
+✅ Seção "Moradores da República" – Atualização de informações e ajustes visuais para uma melhor apresentação.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
+✅ Página de Contato – Reformulação do layout e otimização dos formulários para facilitar a comunicação.
 
-  This code os about a republic website, that I update to a better view and comprehension. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
 
- - Development server
+🔧 Como Executar o Projeto
+📌 Abrir o Servidor
+Execute o seguinte comando no terminal:
 
-  Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+`ng serve`
 
- - Build
+Acesse no navegador: http://localhost:4200/
+O aplicativo será atualizado automaticamente conforme mudanças no código.
 
-  Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
+📌 Compilar o Site
+Para gerar a versão de produção:
+`ng build`
+
+
+Isso criará um diretório chamado dist/, que pode ser usado para hospedar o site em um servidor público.
+
+
+  
